@@ -22,6 +22,10 @@ For upcoming [VueVixen](https://vuevixens.org) events, be sure to bookmark [http
 
 - August 15th at 5:30PM by [Vue Raleigh](https://www.meetup.com/Vue-Raleigh/) - [First Meetup!](https://www.meetup.com/Vue-Raleigh/events/253342316/)
 
+#### September
+
+- September 5th from 6:30PM to 8:00PM by [\<vue-zurich\/\>](https://www.meetup.com/vue_zurich/) – [№ 3](https://www.meetup.com/vue_zurich/events/250908326/)
+
 ## Past
 
 ### 2018
